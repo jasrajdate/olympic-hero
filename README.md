@@ -4,12 +4,12 @@
 
 1. Dataframe operations
 
-Conditional statement and loops
+2. Conditional statement and loops
 
-List operations
+3. List operations
 
-Bar Plotting
+4. Bar Plotting
 
-Mathematical operations
+5. Mathematical operations
 
 
